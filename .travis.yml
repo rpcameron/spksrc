@@ -12,7 +12,7 @@ language: false
 # Build environment configuration
 env:
   global:
-    - PKG=mono
+    - PKG=sabnzbd
   matrix:
     - SYNOARCH=arch-88f6281-6.1
     - SYNOARCH=arch-alpine-6.1
